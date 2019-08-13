@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="2.2.8" package="ctos.hadariel.dedsec" platformBuildVersionCode="16" platformBuildVersionName="4.1.2-1425332">
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="23"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/icon_app" android:debuggable="true" android:allowBackup="true">
+        <activity android:label="@string/app_name" android:name=".MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="SecondPanel" android:screenOrientation="portrait"/>
+        <activity android:name="ZeroPanel" android:screenOrientation="portrait"/>
+        <activity android:name="ThirdPanel" android:screenOrientation="portrait"/>
+        <activity android:name="FourthPanel" android:screenOrientation="portrait"/>
+        <activity android:name="FifthPanel" android:screenOrientation="portrait"/>
+        <activity android:label="@string/about_title" android:name="About" android:screenOrientation="portrait"/>
+    </application>
+    <uses-feature android:name="android.hardware.wifi"/>
+</manifest>

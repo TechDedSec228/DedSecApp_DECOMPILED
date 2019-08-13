@@ -1,0 +1,679 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: BzypH9/bNPsP/QvAAMoUBFqBsTk=
+Created-By: 1.0 (Android)
+
+Name: res/mipmap-mdpi-v4/icon_app.png
+SHA1-Digest: F6AWIyBuF6qvgq3z83UsLGKJDLc=
+
+Name: res/mipmap-mdpi-v4/left.png
+SHA1-Digest: PdGuYymggxyz6VNcTiByXm8TYis=
+
+Name: res/drawable-ldpi-v4/zanti.jpg
+SHA1-Digest: Qu1wusqtnFoTSuxOlhTdgKHHws0=
+
+Name: res/drawable-mdpi-v4/background2.jpg
+SHA1-Digest: NZdNThlrGVtccE1RQSDhvBsSPEk=
+
+Name: res/drawable-ldpi-v4/wifianalyzer.jpg
+SHA1-Digest: +1Ezo1Jy2neQlMC/HoUJ6NYLF8w=
+
+Name: res/anim/slide_left_in.xml
+SHA1-Digest: rCGs5p/wGj+1ZIhyT5l7PmfawH8=
+
+Name: res/drawable-ldpi-v4/about.png
+SHA1-Digest: yKTWR+5nXlqWlI6GjokXkRG1NPA=
+
+Name: res/drawable-ldpi-v4/second.png
+SHA1-Digest: IJyFjoXmiHMyy99x4NpL7kHd+NA=
+
+Name: res/drawable-ldpi-v4/third.png
+SHA1-Digest: jqA/gf+agQL0BYLs654hCINaBo8=
+
+Name: res/drawable-hdpi-v4/websms.jpg
+SHA1-Digest: TaaEgg/rZSgVFp+Os3ojLYrDOaA=
+
+Name: res/drawable-hdpi-v4/anonmail.jpg
+SHA1-Digest: X07KL1bnUlWMVJVSz03JzhnF9Ns=
+
+Name: res/drawable-hdpi-v4/background3.jpg
+SHA1-Digest: f2nJMuaDiY1BCX7lPYmyryl/5/I=
+
+Name: res/layout/fourth_panel.xml
+SHA1-Digest: 3wuEan/bEn+35/ijqP2OcyOmNl4=
+
+Name: res/drawable-mdpi-v4/terminal.jpg
+SHA1-Digest: LoLExldUsZ1LbbADbiOZJBftu58=
+
+Name: res/drawable-xhdpi-v4/background5.jpg
+SHA1-Digest: bNjCXBB1jwAG/JWMA6t9gXJPzc0=
+
+Name: res/drawable-xhdpi-v4/csploit.jpg
+SHA1-Digest: B78lGwYQRPed6CtEFQv+Hano2/E=
+
+Name: res/mipmap-hdpi-v4/zero.png
+SHA1-Digest: W8iQpWNSA68FpTu/cduR+LkWLZU=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: L+krJ+H57m125qclG7ctKHk89pY=
+
+Name: res/drawable-mdpi-v4/websms.jpg
+SHA1-Digest: Wj9tyj87HwbdyJMOJyVPf75e7GQ=
+
+Name: res/drawable-hdpi-v4/wifi.jpg
+SHA1-Digest: tQc9gdNqDRodeX3VBgl/+nO8QGs=
+
+Name: res/drawable-xhdpi-v4/second.png
+SHA1-Digest: Z6iuurg+RvuiMAEN+zyTSfzigQ0=
+
+Name: resources.arsc
+SHA1-Digest: zJOV0ewhlwZ4EXN+IwIOfPqmDA4=
+
+Name: res/drawable-mdpi-v4/changemac.jpg
+SHA1-Digest: fts+7QpCpqJ7kcuH5yaBSa+4Q1Y=
+
+Name: res/drawable-hdpi-v4/wifikill.jpg
+SHA1-Digest: U0KiNh07ZjlpC1gxUU6dkekZgVw=
+
+Name: res/drawable-ldpi-v4/first.png
+SHA1-Digest: 9yNvdMBc/3+7j4gWo5cZpGsLL1c=
+
+Name: res/drawable-ldpi-v4/background0.jpg
+SHA1-Digest: 5EIGx+NUEFClENtr+RIw7Y5J/M4=
+
+Name: res/mipmap-xxhdpi-v4/right.png
+SHA1-Digest: J1dbDpthuOo3V3Qhae3dmgJM6hA=
+
+Name: res/drawable-ldpi-v4/websms.jpg
+SHA1-Digest: rBa4IC84V+DS+Hg/NWe2YWn1H50=
+
+Name: res/drawable-ldpi-v4/tinycam.jpg
+SHA1-Digest: byEcHhColELV40v6mMimnhCJSgY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: FebbZCk8Q7XuKSKowaMLzkWoHtM=
+
+Name: res/drawable-hdpi-v4/second.png
+SHA1-Digest: mZBaGumixUkSLkhnSbh4Ygv/lI8=
+
+Name: res/drawable-xhdpi-v4/background2.jpg
+SHA1-Digest: iNsu65d9YuNfsUHO3fo265/8VQo=
+
+Name: res/drawable-xhdpi-v4/changemac.jpg
+SHA1-Digest: 9E+AY9cp3r2pwYT7AcKuTC+Kh3Q=
+
+Name: res/drawable-hdpi-v4/tor.jpg
+SHA1-Digest: bFBk0JqCreHsnlH5E/Vc1VYKjwE=
+
+Name: res/drawable-ldpi-v4/intercepter.jpg
+SHA1-Digest: e4ceomrAUba5pOY3vgALGR+FKFM=
+
+Name: res/drawable-mdpi-v4/anonmail.jpg
+SHA1-Digest: dnZfdeFKeV7/PWVT7Hs3bxSud6Q=
+
+Name: res/drawable-xhdpi-v4/wps.jpg
+SHA1-Digest: XrMdRujDK4HpJ0Ku0A3i8/GAcgE=
+
+Name: res/drawable-mdpi-v4/fourth.png
+SHA1-Digest: umTkU02Ga+QCDhA5sp9WH/mHryU=
+
+Name: res/drawable-mdpi-v4/right.png
+SHA1-Digest: 4RlcPHBn1in2tfLRTHJit7hxphw=
+
+Name: res/drawable-ldpi-v4/background3.jpg
+SHA1-Digest: ZQAWrjqXQZlUqMKpZfHaAraOfYg=
+
+Name: res/drawable-mdpi-v4/darktime.jpg
+SHA1-Digest: rXdFUQ8Gft/3xxF2wTFCCTnhzW4=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: K+3JdMNP5Upg1cnR27hJLbv1EEc=
+
+Name: res/drawable-hdpi-v4/darktime.jpg
+SHA1-Digest: Hpckw0AgGdJLmggCjLm2pIN3QGA=
+
+Name: res/mipmap-hdpi-v4/icon_app.png
+SHA1-Digest: bRWLwYC183Hmxg8t+a2QlVPQfSo=
+
+Name: res/drawable-ldpi-v4/gsmspy.jpg
+SHA1-Digest: k92z//SRmjELKXoyIA/u4b1X7Gg=
+
+Name: res/drawable-mdpi-v4/wps.jpg
+SHA1-Digest: DCNabbDmsMFSRjjBIhY64hrSyFI=
+
+Name: res/drawable-xxhdpi-v4/wifi.jpg
+SHA1-Digest: eOYyUnLlhExd64YktuDuFPBaJcc=
+
+Name: res/drawable-ldpi-v4/domofon.jpg
+SHA1-Digest: 6NDrseSivL5qFv0lKLxsTZwRWvw=
+
+Name: res/drawable-xhdpi-v4/first.png
+SHA1-Digest: lcWH9ncoV3crRtonbC7wWAD9egU=
+
+Name: res/mipmap-mdpi-v4/zero.png
+SHA1-Digest: 4A5Iwp0Zg2VczkbAJ2Cu4gNOJWI=
+
+Name: res/drawable-mdpi-v4/second.png
+SHA1-Digest: bwF3b7Jjt3r30zsOLfnkG4ZYEko=
+
+Name: res/drawable-ldpi-v4/zero.png
+SHA1-Digest: FzjrLBiXPtogVCkXDueG/tFxSro=
+
+Name: res/drawable-ldpi-v4/routerpbrute.jpg
+SHA1-Digest: UZvtBAQ2bL9M04jn9f/qdzg0SP0=
+
+Name: res/mipmap-hdpi-v4/left.png
+SHA1-Digest: OkjqASFaXqK0y77NyB7AZsk8Ip8=
+
+Name: res/anim/slide_right_in.xml
+SHA1-Digest: kF9n35rLNcrkC8wOFjaMc2PvWqk=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: RHpI5Ku24rh6ml58nL3XtZrzRAo=
+
+Name: res/drawable-hdpi-v4/routerpage.jpg
+SHA1-Digest: 5t5ZcCixRtGJm87ppt9/CogQ1/Y=
+
+Name: res/drawable-xhdpi-v4/terminal.jpg
+SHA1-Digest: 64pXFn/ikzMabxd9c47IEYisFEg=
+
+Name: res/drawable-xhdpi-v4/intercepter.jpg
+SHA1-Digest: 8qOhieadISPMqGYkVUuxP9PgaQo=
+
+Name: res/drawable-hdpi-v4/first.png
+SHA1-Digest: 3phCsrg7t3sV9TOcyMKQjLwfX/o=
+
+Name: res/drawable-hdpi-v4/intercepter.jpg
+SHA1-Digest: SwDTgGBv/nGzPFkGArDP5MYNhMU=
+
+Name: res/drawable-ldpi-v4/ivms.jpg
+SHA1-Digest: COOpOZU6sVWXh3PIVvA59sZqd74=
+
+Name: res/drawable-mdpi-v4/background3.jpg
+SHA1-Digest: nGRs5YdDzxm525hL+/hnNnl3XMk=
+
+Name: res/mipmap-xhdpi-v4/right.png
+SHA1-Digest: Pqp1NZUDsU6lrPPUnC/hl/uV/5I=
+
+Name: res/mipmap-xxxhdpi-v4/right.png
+SHA1-Digest: 7Z0EBRcqYFQAbqLLAyDxXld14Ls=
+
+Name: res/drawable-mdpi-v4/bruteforce.jpg
+SHA1-Digest: Rub+qTM3yXRRQ+3SMc+viUD24sA=
+
+Name: res/drawable-hdpi-v4/zanti.jpg
+SHA1-Digest: Fo+7wuaaOZLXi3GdQ4mdmC2Xg7k=
+
+Name: res/drawable-hdpi-v4/background4.jpg
+SHA1-Digest: hw6PTERgv3cWXlRDNQahX5vrzqA=
+
+Name: res/drawable-xhdpi-v4/bruteforce.jpg
+SHA1-Digest: gWP7lPuNac0Om+lX+DKhzKMryxw=
+
+Name: res/drawable-xhdpi-v4/busybox.jpg
+SHA1-Digest: sUbyHvBe4sMfL//L4sEGKUf5qdE=
+
+Name: res/drawable-hdpi-v4/changemac.jpg
+SHA1-Digest: qUqHsYVJnTxeOrrVmWYDwDCfgrQ=
+
+Name: res/drawable-xhdpi-v4/trash.png
+SHA1-Digest: PQfJ/vinJNMLQUlunMWNn149z+E=
+
+Name: res/anim/zoom_out.xml
+SHA1-Digest: 4OYBn8VCL7BmOhDrUSpjLBYF2Go=
+
+Name: res/drawable-xhdpi-v4/droidsniff.jpg
+SHA1-Digest: 2x/d/iz1RUbIckGJIS4aI40/oIo=
+
+Name: res/drawable-mdpi-v4/qr.jpg
+SHA1-Digest: joU4xEODIbe2FzX0tmN5UcQqtfE=
+
+Name: res/drawable-hdpi-v4/wps.jpg
+SHA1-Digest: Oxldyw5Li+E+OdUzDsvrS6y96WM=
+
+Name: res/drawable-ldpi-v4/csploit.jpg
+SHA1-Digest: GYdGIeAFR8wKUNIqEG6tXmQPWlA=
+
+Name: res/drawable-hdpi-v4/background0.jpg
+SHA1-Digest: 89TPs7d38P/R02pp0bWDlSAvJmw=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: WdirxfsIlyKNUyimCHOMybA7Kyo=
+
+Name: res/drawable-mdpi-v4/third.png
+SHA1-Digest: 6J4sGy7ooBeZfB3Xh3V4rAgMmB4=
+
+Name: res/drawable-xhdpi-v4/zanti.jpg
+SHA1-Digest: pIiaDSiq9vjni6k5FSZCtSj2LjY=
+
+Name: res/drawable-hdpi-v4/zero.png
+SHA1-Digest: e06Wwhlf3ER79eWkIcBwPSYaKzI=
+
+Name: res/drawable-mdpi-v4/wifi.jpg
+SHA1-Digest: pPHf0NRYfZfuzYIQFccuOV92knY=
+
+Name: res/layout/second_panel.xml
+SHA1-Digest: /S/iKmGSgyqGQvewTOZeRLmB54Y=
+
+Name: res/drawable-xhdpi-v4/sql.jpg
+SHA1-Digest: yaQogi1laUaMNSvIJdbtW9E7FRM=
+
+Name: res/mipmap-xhdpi-v4/left.png
+SHA1-Digest: r2o9H3R2BIPO2616mEud/mxN10Q=
+
+Name: res/drawable-hdpi-v4/domofon.jpg
+SHA1-Digest: LhbCbrkj5bPAep6VmpKnxGpHx00=
+
+Name: res/drawable-xhdpi-v4/wifianalyzer.jpg
+SHA1-Digest: tFNlqiii8pfgz3w0PUBm2ONZZcE=
+
+Name: res/drawable-mdpi-v4/tor.jpg
+SHA1-Digest: vIURX3x7wOYzahpg/6f8DrAVt3s=
+
+Name: res/drawable-hdpi-v4/fifth.png
+SHA1-Digest: tvuaVp81t1oXiZK1f2GUpndlCUo=
+
+Name: res/drawable-xhdpi-v4/wifi.jpg
+SHA1-Digest: sUz4KojCl63kgwe0Ac10IQ73Z/g=
+
+Name: res/drawable-hdpi-v4/ivms.jpg
+SHA1-Digest: OlSEL8vfFccrGwAXZ2XD2a00TwU=
+
+Name: res/drawable-xhdpi-v4/whatsapp.jpg
+SHA1-Digest: bgWTU97dXY/OHjBiOhhx/Ymp9Gs=
+
+Name: res/drawable-ldpi-v4/fourth.png
+SHA1-Digest: nNin4ZCkeJD6/oL9/nE1a7nG/b0=
+
+Name: res/drawable-hdpi-v4/tinycam.jpg
+SHA1-Digest: /4pgcB4Y84bFvtRp+G1c176BrQ8=
+
+Name: res/drawable-hdpi-v4/right.png
+SHA1-Digest: saFSQj45/BBNJUlcQJkcjTtkwHc=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: pHdQpI13rzDfMxjS1stzdGC7af0=
+
+Name: res/drawable-ldpi-v4/background4.jpg
+SHA1-Digest: uTpBcgOPfJh/J31nHZaTesfz/xg=
+
+Name: res/drawable-xhdpi-v4/background1.jpg
+SHA1-Digest: SZAmQdnQEAiyAMoOYrn7cWvHNiQ=
+
+Name: res/drawable-ldpi-v4/tor.jpg
+SHA1-Digest: f6ZsctA7FVvOb8oZ4yC/Pgkjw10=
+
+Name: res/drawable-mdpi-v4/about.png
+SHA1-Digest: e4dUw3Lmt6DMjHZEhWpgcdscEa0=
+
+Name: res/drawable-ldpi-v4/trash.png
+SHA1-Digest: JWoP/JST+O6RAstq5ih87nRMnkw=
+
+Name: res/drawable-ldpi-v4/droidsniff.jpg
+SHA1-Digest: XI4R6sHTsZbdGeAmMOzACFDZE9Q=
+
+Name: res/drawable-xhdpi-v4/fifth.png
+SHA1-Digest: 716YLqhX8DX+GCrTfVCfHivTrPo=
+
+Name: res/mipmap-xxxhdpi-v4/zero.png
+SHA1-Digest: bx1/IotHndKwn9kROSMgROB3OQg=
+
+Name: res/mipmap-xxxhdpi-v4/icon_app.png
+SHA1-Digest: zz9/b8joXhyY6i9JI+QbDf1K3x0=
+
+Name: res/drawable-mdpi-v4/trash.png
+SHA1-Digest: AfvX5lo7VR+LaiM4xKoOb0/blC4=
+
+Name: res/drawable-hdpi-v4/csploit.jpg
+SHA1-Digest: SUpWEs8KYyn6DTPVUY2pjKjH6Vc=
+
+Name: res/drawable-hdpi-v4/routerpbrute.jpg
+SHA1-Digest: yYdgmjFeAt3vquOS9GM8nbKRPq0=
+
+Name: res/drawable-ldpi-v4/anonmail.jpg
+SHA1-Digest: FE/W5xF/qjVw/uzEBjS6mnpGsWo=
+
+Name: res/drawable-xxhdpi-v4/changemac.jpg
+SHA1-Digest: ODItwpN8Z4VNVTxGHa4i/506QnY=
+
+Name: res/drawable-ldpi-v4/background2.jpg
+SHA1-Digest: +JlUxsZ7cE8x1SjHqFjFWjOsRG4=
+
+Name: res/drawable-hdpi-v4/bruteforce.jpg
+SHA1-Digest: qctDLB2oBTmb8Z+PpYlppbAzUiE=
+
+Name: res/drawable-hdpi-v4/ssh.jpg
+SHA1-Digest: IqWV3oMy+UqgC+TEzOFrnOnG17Q=
+
+Name: res/drawable-mdpi-v4/gsmspy.jpg
+SHA1-Digest: Ba1bPEIMexUKdqk1pTVyqINxP/8=
+
+Name: res/drawable-ldpi-v4/busybox.jpg
+SHA1-Digest: +2Pe36ZbwQQM2jdI/ZpKXUIyYrs=
+
+Name: res/drawable-mdpi-v4/droidsniff.jpg
+SHA1-Digest: 0kenYf1EiqqSOL7v50Dh4/9x7lg=
+
+Name: res/drawable-mdpi-v4/ivms.jpg
+SHA1-Digest: xaKKeJpb1cHGTk8ItDkWme5oEQ8=
+
+Name: res/drawable-mdpi-v4/fing.jpg
+SHA1-Digest: sMY8dzK81YAveQc016tDjoBmEoU=
+
+Name: res/drawable-ldpi-v4/routerpage.jpg
+SHA1-Digest: TclykOzZxZeq6dOb2C7vCBXha3g=
+
+Name: res/drawable-mdpi-v4/background0.jpg
+SHA1-Digest: utnZQ5jBWKnuGnRFwPmvvTMcNI8=
+
+Name: res/drawable-mdpi-v4/ssh.jpg
+SHA1-Digest: Wzuu8AQYb4xGsbTxaNccAvCiTWI=
+
+Name: res/drawable-mdpi-v4/routerpage.jpg
+SHA1-Digest: lMXWROOsLLyJWyNdgEg4bymOmWQ=
+
+Name: res/drawable-ldpi-v4/wifikill.jpg
+SHA1-Digest: CFgf3l8S0H8sgD3o/OIDUmbhWVg=
+
+Name: res/drawable-mdpi-v4/busybox.jpg
+SHA1-Digest: NoBfMW5KW6lRmOiVaviivomFifo=
+
+Name: res/drawable-mdpi-v4/sql.jpg
+SHA1-Digest: pBIUZVz2syby/CKlxEzhqbhbfNE=
+
+Name: res/mipmap-xxhdpi-v4/left.png
+SHA1-Digest: ps7sVPJJzarRyZcB5lPdUfoFJtc=
+
+Name: res/drawable-mdpi-v4/wifianalyzer.jpg
+SHA1-Digest: ED1tHS8NP/gamCwH35E4xD8sX8o=
+
+Name: res/drawable-hdpi-v4/sql.jpg
+SHA1-Digest: OinWHdfrBlx2Os1qPJs82PNZAXg=
+
+Name: res/drawable-xxhdpi-v4/bruteforce.jpg
+SHA1-Digest: Y9+HpajnfI4GKCm7rMsl2LqaRUI=
+
+Name: res/drawable-ldpi-v4/right.png
+SHA1-Digest: pHXyfQlmcpRFfLuRARrD1Ho4L2U=
+
+Name: res/drawable-xhdpi-v4/routerpbrute.jpg
+SHA1-Digest: 0XsZ6/WsZYL0HcLWShZ+lEJ6HI4=
+
+Name: res/drawable-hdpi-v4/background5.jpg
+SHA1-Digest: n7LaRzh1DmI4PMXz7pg7+ilg13M=
+
+Name: res/drawable-xxhdpi-v4/wps.jpg
+SHA1-Digest: POGQmrfuuPxTBAeNtiA+9MaIGVU=
+
+Name: res/drawable-xhdpi-v4/domofon.jpg
+SHA1-Digest: dUrLpsGqzETJ7cY+k+pcSzyYTKE=
+
+Name: res/drawable-xhdpi-v4/routerpage.jpg
+SHA1-Digest: tfGIXh77SiJ369iuHUXJTJ2pCFU=
+
+Name: res/drawable-mdpi-v4/first.png
+SHA1-Digest: Nsyo4YqbGKAf5KOEwBGHY7omvao=
+
+Name: res/drawable-xhdpi-v4/fourth.png
+SHA1-Digest: Vd0S+sV6SzjsBJLQVncsB2xJypg=
+
+Name: res/drawable-xhdpi-v4/icon_app.png
+SHA1-Digest: 2HiMfxNOcuTbAZpVWxiqK2V2AE8=
+
+Name: res/drawable-ldpi-v4/background5.jpg
+SHA1-Digest: OvFT7xzG1mQ4NTSJXPKzbq2zrvc=
+
+Name: res/drawable-xhdpi-v4/left.png
+SHA1-Digest: b8canzWwkphsYsHxODhADU78EyM=
+
+Name: res/drawable-ldpi-v4/ssh.jpg
+SHA1-Digest: U6bOOQgUEa6dVznSSa2gLkLqzac=
+
+Name: res/drawable-xhdpi-v4/anonmail.jpg
+SHA1-Digest: Fs4QqlIt0lZE6ctH9ivyNcvqW/4=
+
+Name: res/drawable-xhdpi-v4/wifikill.jpg
+SHA1-Digest: rdqE4dKPkUklZ3zfyb2b1j0JvUc=
+
+Name: res/drawable-xhdpi-v4/qr.jpg
+SHA1-Digest: PklvuguKNzYG771dpP6TZR15uSI=
+
+Name: res/drawable-hdpi-v4/about.png
+SHA1-Digest: Db1tURNqtRRJ3Mhcoky9avX3Y0g=
+
+Name: res/drawable-ldpi-v4/changemac.jpg
+SHA1-Digest: C4BIKNkbuAsh3e9BdgaU9GgL6Fs=
+
+Name: res/drawable-xhdpi-v4/background4.jpg
+SHA1-Digest: lqvABDAHIHxlw48o/w9rfbNPyQc=
+
+Name: res/mipmap-mdpi-v4/right.png
+SHA1-Digest: mEq73VPzp4MSC7MVwDZPkWP3jQ8=
+
+Name: res/anim/zoom_in.xml
+SHA1-Digest: 5DG94lZSjgcwwELK9yPaV89vYV8=
+
+Name: res/drawable-xhdpi-v4/ssh.jpg
+SHA1-Digest: OCQF+YomRq2K75Y8DbSBmACgx8o=
+
+Name: res/drawable-ldpi-v4/wps.jpg
+SHA1-Digest: jkWD4IbPLioPDsBqHayU308cuyA=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: O/hPwGAnOMgb//tY4MqGC0eKO0g=
+
+Name: res/drawable-xhdpi-v4/background0.jpg
+SHA1-Digest: V3OIinHlAs/EZExWRMMU6cxtrYQ=
+
+Name: res/drawable-mdpi-v4/background4.jpg
+SHA1-Digest: 85akxn8fn+NZomZlSiSCVkN+P9k=
+
+Name: res/drawable-mdpi-v4/routerpbrute.jpg
+SHA1-Digest: IsGeGBVLN9XS+XR1a8oEOM7m06M=
+
+Name: res/drawable-ldpi-v4/darktime.jpg
+SHA1-Digest: 1/odS3zirPcWtCekcomKVb64kV4=
+
+Name: res/drawable-xhdpi-v4/tinycam.jpg
+SHA1-Digest: JFl123J7m5G+eXu8AQJAQ9Sd/e8=
+
+Name: res/mipmap-xhdpi-v4/icon_app.png
+SHA1-Digest: WQ/oCha8HMxXd+26MBWted23FCs=
+
+Name: res/drawable-xhdpi-v4/right.png
+SHA1-Digest: Ck2G/8ZUd66M3nLASwkPuP15Zb0=
+
+Name: res/mipmap-xhdpi-v4/zero.png
+SHA1-Digest: BQfVSQI3F+pxCNk4VJk24661KZg=
+
+Name: res/drawable-ldpi-v4/fifth.png
+SHA1-Digest: aRESffaTbKbr5ezdEPGVMV3rHzU=
+
+Name: res/drawable-hdpi-v4/fing.jpg
+SHA1-Digest: RvPVKCz7gxhyCC4W3rssnXTgTCA=
+
+Name: res/mipmap-xxhdpi-v4/icon_app.png
+SHA1-Digest: YUd9W6FFcxy5KANkxH8h1v8CoQo=
+
+Name: res/drawable-hdpi-v4/third.png
+SHA1-Digest: 4VZtl4ePMXzIkDQG5ORS7/chVHg=
+
+Name: res/drawable-ldpi-v4/wifi.jpg
+SHA1-Digest: Wr6zQuH6RlBm/iBvVdYcgqnhWuA=
+
+Name: res/drawable-hdpi-v4/background1.jpg
+SHA1-Digest: iTK1zjD6I18xLqXoemIR7+AZHH4=
+
+Name: res/drawable-mdpi-v4/left.png
+SHA1-Digest: aWHTqal2UX/OawMQJre1ShtVPPQ=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: CCzPqb2oxd/QM6x7hrek5ZOOY5w=
+
+Name: res/anim/slide_right_out.xml
+SHA1-Digest: WvO0eWV+7uwPmxjB+11zp+Xm+Fg=
+
+Name: res/drawable-hdpi-v4/busybox.jpg
+SHA1-Digest: BfJoZXbk1SJAOPvnc6I6j29toD4=
+
+Name: res/drawable-ldpi-v4/qr.jpg
+SHA1-Digest: zogGjJYxd+UFQT7pxIw0UzZO58Y=
+
+Name: res/mipmap-hdpi-v4/right.png
+SHA1-Digest: NBpU8NzmwuhBTzO5R/I8xZX0W94=
+
+Name: res/drawable-ldpi-v4/icon_app.png
+SHA1-Digest: AwOEGIkF/QHR/V7uYmtVhlfbdH0=
+
+Name: res/drawable-hdpi-v4/icon_app.png
+SHA1-Digest: xWsfxPadCOB2oWqpHiR/tm+l02w=
+
+Name: res/drawable-mdpi-v4/fifth.png
+SHA1-Digest: ZXXQX/dZhudpvHpm5LXC9QMorZc=
+
+Name: res/drawable-xhdpi-v4/ivms.jpg
+SHA1-Digest: z/CdlsGBSNwvZRHRiZXx7VWlEHA=
+
+Name: res/drawable-hdpi-v4/wifianalyzer.jpg
+SHA1-Digest: vXK9LWkQn9CA7oCBd54vh2Fy+vw=
+
+Name: res/drawable-ldpi-v4/background1.jpg
+SHA1-Digest: Vcb/we9NAzfIUvQCeg27WjMFuvA=
+
+Name: res/anim/slide_left_out.xml
+SHA1-Digest: qCVrynLsJWFiejwcznSfZkAZnPs=
+
+Name: res/drawable-ldpi-v4/whatsapp.jpg
+SHA1-Digest: Sa05BXQs51vaprLWHZGC5o7iqSM=
+
+Name: res/layout/about.xml
+SHA1-Digest: NyaaLx4cgrwC0UaZZsaeH0cw36c=
+
+Name: res/drawable-xhdpi-v4/fing.jpg
+SHA1-Digest: 6kVAvEqSQUvNlmOGefDJTW4PkMA=
+
+Name: res/drawable-hdpi-v4/fourth.png
+SHA1-Digest: PE19BHF68w2QAqRr9KRjPJGgYtY=
+
+Name: res/drawable-hdpi-v4/whatsapp.jpg
+SHA1-Digest: JZs8IWyl4UTs/3+fUPCU8zfSB54=
+
+Name: res/mipmap-xxhdpi-v4/zero.png
+SHA1-Digest: 4c6B9MMFtOETp7LniY0hcDAdj9g=
+
+Name: res/drawable-hdpi-v4/droidsniff.jpg
+SHA1-Digest: Kd1sUkOuOFdsZXHbhJWX71qFYb8=
+
+Name: res/drawable-hdpi-v4/qr.jpg
+SHA1-Digest: LT29HvMAYEGg+W4wl6EpzraMwDY=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: GK+iTrKDXwC1Br2fDXV1PnKHGRU=
+
+Name: res/drawable-hdpi-v4/trash.png
+SHA1-Digest: IPT3wIjj2XfWMaacsk1nGRkjd9w=
+
+Name: res/drawable-xhdpi-v4/gsmspy.jpg
+SHA1-Digest: O9wBfnlQM0I5A08b9yxZpCumzaI=
+
+Name: res/mipmap-xxxhdpi-v4/left.png
+SHA1-Digest: Gr8OUkBiHAm+LqtZJu5kkjhPRnk=
+
+Name: res/drawable-xhdpi-v4/darktime.jpg
+SHA1-Digest: i/mCnQHyU+FGMgI/yP+chgxxZFM=
+
+Name: res/drawable-hdpi-v4/gsmspy.jpg
+SHA1-Digest: 85gw6DX4JHkgUAvbXzmsMEgMcxI=
+
+Name: res/drawable-xhdpi-v4/zero.png
+SHA1-Digest: vn1HUca1OuGjWbBQHaQ25tgQReQ=
+
+Name: res/layout/fifth_panel.xml
+SHA1-Digest: GZP3i7vk9Otp9rPmGDVbH0z0pJE=
+
+Name: res/drawable-ldpi-v4/fing.jpg
+SHA1-Digest: 9JNrt5wCt/4p6UiBL7iS8AGwPYQ=
+
+Name: res/drawable-hdpi-v4/left.png
+SHA1-Digest: 5QYRhyBpSJBJsjmMN6KiSRyDjk8=
+
+Name: res/drawable-mdpi-v4/wifikill.jpg
+SHA1-Digest: D85obLfa7Zvmzwd4Z4NQ9OX/lY4=
+
+Name: res/drawable-mdpi-v4/background1.jpg
+SHA1-Digest: Rghxzy9XcpPZohBzqpdpJ+naNMs=
+
+Name: res/layout/zero_panel.xml
+SHA1-Digest: rtk70Yme5BTj3nh083CjKjMNBIU=
+
+Name: res/drawable-mdpi-v4/csploit.jpg
+SHA1-Digest: HPL0TmqVyu4mBly0QRri1lWt8j8=
+
+Name: res/drawable-xhdpi-v4/third.png
+SHA1-Digest: uZBvuLp+hPx7N2Thqrfxne6BM8U=
+
+Name: res/drawable-mdpi-v4/intercepter.jpg
+SHA1-Digest: uWBDv+FvNaWK2eHD2IC8Xa3vDFw=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: EDfRZVtxmw4+2o/l7eQDgoVC2wQ=
+
+Name: res/drawable-ldpi-v4/bruteforce.jpg
+SHA1-Digest: gGkJMy9dmP2Ap6P/2eTY+5h8Zwk=
+
+Name: res/menu/main.xml
+SHA1-Digest: vRdxDjCoyJ6Ofm9iVZM+fRw+eOg=
+
+Name: res/drawable-mdpi-v4/domofon.jpg
+SHA1-Digest: itOqbsdGiRfVFgXJMwJ50J+TUoI=
+
+Name: res/drawable-ldpi-v4/sql.jpg
+SHA1-Digest: 2KPqoXcVDpCVCjpdm1mqehLxzJw=
+
+Name: res/drawable-mdpi-v4/whatsapp.jpg
+SHA1-Digest: aYhpBH7xFzzxj/gXKNd9eJMUPn8=
+
+Name: res/drawable-xhdpi-v4/background3.jpg
+SHA1-Digest: c3L2p51ftF/dpXen/pIU46SJdrc=
+
+Name: res/drawable-ldpi-v4/terminal.jpg
+SHA1-Digest: H0s3PYo8PgK3xcDFiK7QttPuKF8=
+
+Name: res/drawable-mdpi-v4/icon_app.png
+SHA1-Digest: qjnvbcueWRLSKj3aNzHjrl1IKw4=
+
+Name: res/drawable-mdpi-v4/zero.png
+SHA1-Digest: FdMgPcvsss72GJDhwWvNG+IBXCQ=
+
+Name: res/drawable-mdpi-v4/zanti.jpg
+SHA1-Digest: QJY3fDapGXRuqnr0ApR+bfYMiRQ=
+
+Name: res/drawable-hdpi-v4/terminal.jpg
+SHA1-Digest: dR0JCXhyDurGn8FEcnatryHkkPs=
+
+Name: res/drawable-ldpi-v4/left.png
+SHA1-Digest: 7sOrSmJmPVKe9bV4nhtD7J8CB6g=
+
+Name: res/layout/third_panel.xml
+SHA1-Digest: AD+risvK6CMFvyZ+C5sclIavkNo=
+
+Name: res/drawable-xhdpi-v4/tor.jpg
+SHA1-Digest: Nan3qKeEhZAKqhz1jz0DwSuq/YE=
+
+Name: res/drawable-hdpi-v4/background2.jpg
+SHA1-Digest: iWoJ5n9zxAh9l7G2DZ488n0F7KQ=
+
+Name: res/drawable-xhdpi-v4/about.png
+SHA1-Digest: ui3ua5/YBwJbmJlJAp82LwhLavc=
+
+Name: res/drawable-mdpi-v4/background5.jpg
+SHA1-Digest: nb81qDsosv0tINL1EIboj338Qog=
+
+Name: res/drawable-mdpi-v4/tinycam.jpg
+SHA1-Digest: sIx2hyLJrjH8RPzdlzB2nq9XNjM=
+
+Name: classes.dex
+SHA1-Digest: SW7LaEcj/hxVQFBZ7Q8Lq+47fPc=
+
+Name: res/drawable-xhdpi-v4/websms.jpg
+SHA1-Digest: NTxmJtrRH/KKNTIBwr1bBfCfZVU=
+
