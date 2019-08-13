@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DedSec App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="changemymac">Change MAC</string>
+    <string name="first_page">1. Network access hack</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="wps">WPS Hack</string>
+    <string name="brute">BruteForce</string>
+    <string name="about">This application was made by a fan of the game Watch_Dogs 2. This and other applications that you download through it, should only be used in their own networks, or others with the permission of the network owner. For any illegal actions committed by the user, the author is not liable. Use this app is for learning and understanding of the work networks.</string>
+    <string name="action_settings">About</string>
+    <string name="second_page">2. Brute Admin Panel</string>
+    <string name="zero_page">0. Other tools</string>
+    <string name="wifigateway">Router Page</string>
+    <string name="routerbrute">Router Brute Force</string>
+    <string name="fing">Fing</string>
+    <string name="domofon">DoorPhone Codes</string>
+    <string name="terminal">Terminal</string>
+    <string name="busybox">BusyBox</string>
+    <string name="droidsql">DroidSQL</string>
+    <string name="ivms">iVMS-4500</string>
+    <string name="ssh">JuiceSSH</string>
+    <string name="qr">QR Reader</string>
+    <string name="tinycam">TinyCam</string>
+    <string name="wifianalyzer">WiFi Analyzer</string>
+    <string name="third_page">3. Hack sessions</string>
+    <string name="droidsniff">DroidSniff</string>
+    <string name="intercepter">Intercepter-NG</string>
+    <string name="whatsapp">WhatsApp Sniffer</string>
+    <string name="fourth_page">4. Fun with WiFi-users</string>
+    <string name="netcut">WiFi Killer</string>
+    <string name="csploit">cSploit</string>
+    <string name="zanti">zANTI</string>
+    <string name="fifth_page">5. Security / Anonymity</string>
+    <string name="anonmail">Anonymous Email</string>
+    <string name="tor">TOR Browser</string>
+    <string name="websms">Web SMS Ukraine</string>
+    <string name="gsmspy">GSM Spy Finder</string>
+    <string name="about_title">About</string>
+    <string name="wifi_settings">WiFi Settings</string>
+    <string name="darktime">darktime</string>
+</resources>
